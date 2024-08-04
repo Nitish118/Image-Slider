@@ -8,6 +8,7 @@ This project is an image slider implemented using HTML, CSS, and JavaScript. The
 - Responsive design to fit various screen sizes.
 - Clean and modern interface.
 
+
 ## Installation
 
 To use this project, follow these steps:
@@ -22,8 +23,3 @@ To use this project, follow these steps:
     ```
 
 3. Open `index.html` in your preferred web browser.
-
-## Usage
-
-- Click the left arrow to view the previous image.
-- Click the right arrow to view the next image.
